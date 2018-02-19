@@ -1,0 +1,15 @@
+1518612185681	geckodriver	INFO	geckodriver 0.19.1
+1518612185686	geckodriver	INFO	Listening on 127.0.0.1:57591
+1518612185808	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.BqkfKqDrmqjy"
+1518612186370	Marionette	INFO	Enabled via --marionette
+1518612187798	Marionette	INFO	Listening on port 34269
+1518612187827	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1518612291981	geckodriver	INFO	geckodriver 0.19.1
+1518612291985	geckodriver	INFO	Listening on 127.0.0.1:39695
+1518612293132	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.VC2oMJrN5RBK"
+1518612293725	Marionette	INFO	Enabled via --marionette
+1518612295085	Marionette	INFO	Listening on port 35045
+1518612295148	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+[Child 14009, Chrome_ChildThread] WARNING: pipe error (21): 连接被对方重设: file /build/firefox-9j9NY8/firefox-58.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
